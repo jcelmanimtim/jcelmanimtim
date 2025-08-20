@@ -11,10 +11,14 @@
 
 ---
 
-### 🌱 Currently Learning
-- 🌐 Web Development (HTML, CSS, JS)  
-- 🐍 Python & Data Analysis  
-- 🎨 UX/UI Design  
+### 🌸 Currently Learning  
+
+![Event-Driven Programming](https://img.shields.io/badge/-Event--Driven%20Programming-FFC0CB?style=for-the-badge)  
+![Enterprise Architecture](https://img.shields.io/badge/-Enterprise%20Architecture-FFB6C1?style=for-the-badge)  
+![Computer Graphics](https://img.shields.io/badge/-Computer%20Graphics-FF69B4?style=for-the-badge)  
+![Systems Integration](https://img.shields.io/badge/-Systems%20Integration-DB7093?style=for-the-badge)  
+![Data & Communications](https://img.shields.io/badge/-Data%20&%20Comms-FF82AB?style=for-the-badge)  
+![SAP Fiori](https://img.shields.io/badge/-SAP%20Fiori-FF1493?style=for-the-badge)    
 
 ---
 
