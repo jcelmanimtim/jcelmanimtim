@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Jcel 💖🎀✨
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jcelmanimtim.jcelmanimtim)
-![Hello GIF](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
+![Cute Pink GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 🎀 **Information Technology student @ STI College**  
 💻 Passionate about coding & creating cute projects  
