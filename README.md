@@ -1,41 +1,55 @@
-## Hi there! 👋 I'm Jcel 💖🎀✨
+<!-- Header GIF -->
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw2ZWV5eXJoeTEzdWljNW40MDgwZWZ4dzc3aTF1bTJqa2o4cm54ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGnkt4OpJf5JcJy/giphy.gif" width="350" />
+</p>
 
+# Hi there! 👋 I'm **Jcel** 💻  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jcelmanimtim.jcelmanimtim)
-![Cute Pink GIF](https://media1.giphy.com/media/l4FGnkt4OpJf5JcJy/giphy.gif?cid=ecf05e475ih0cu4dvh6hl25gi49pvva1ut5s8xa7wbzy7n9a&rid=giphy.gif)
-
-🎀 **Information Technology student @ STI College**  
-💻 Passionate about coding & creating cute projects  
-🎵 Vibing to indie, chill, & aesthetic playlists  
-☕ Coffee enthusiast & occasional boba lover  
-🌸 Lover of pastel vibes, cute designs, and everything aesthetic  
 
 ---
 
-### 🌸 Currently Learning  
-
-![Event-Driven Programming](https://img.shields.io/badge/-Event--Driven%20Programming-FFC0CB?style=for-the-badge)  
-![Enterprise Architecture](https://img.shields.io/badge/-Enterprise%20Architecture-FFB6C1?style=for-the-badge)  
-![Computer Graphics](https://img.shields.io/badge/-Computer%20Graphics-FF69B4?style=for-the-badge)  
-![Systems Integration](https://img.shields.io/badge/-Systems%20Integration-DB7093?style=for-the-badge)  
-![Data & Communications](https://img.shields.io/badge/-Data%20&%20Comms-FF82AB?style=for-the-badge)  
-![SAP Fiori](https://img.shields.io/badge/-SAP%20Fiori-FF1493?style=for-the-badge)    
+## 🌸 About Me  
+📚 Information Technology student at **STI College**  
+💻 Coding & creating *cute aesthetic projects*  
+🎵 Always vibing to indie & chill music  
+☕ Coffee addict & occasional boba lover  
+🌷 Living in pastel vibes ✨  
 
 ---
 
-### 🛠️ Skills & Tools
-![VB.NET Badge](https://img.shields.io/badge/VB.NET-68217A?style=for-the-badge&logo=visual-studio&logoColor=white)
-![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL Badge](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🛠 Languages & Tools I Know  
+![VB.NET](https://img.shields.io/badge/VB.NET-9b59b6?style=for-the-badge&logo=dotnet&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-2ecc71?style=for-the-badge&logo=csharp&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3498db?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-e67e22?style=for-the-badge&logo=openjdk&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-f1c40f?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-e74c3c?style=for-the-badge&logo=ubuntu&logoColor=white)  
 
 ---
 
-### 💌 Let's Connect
-📧 Email: manimtim.423459@santarosa.sti.edu.ph  
+## 🌱 Currently Learning  
+✨ Event-Driven Programming  
+✨ Enterprise Architecture  
+✨ Computer Graphics Programming  
+✨ Advanced Systems Integration & Architecture  
+✨ Data & Digital Communications  
+✨ Knowledgeable in SAP Fiori  
 
 ---
 
-> "Coding with pastel vibes & good coffee ☕🌸✨"
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jcelmanimtim&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcelmanimtim&layout=compact&theme=rose_pine&hide_border=true" width="41%" />
+</p>
+
+---
+
+## 📬 Let’s Connect  
+📧 **manimtim.423459@santarosa.sti.edu.ph**
+
+---
+
+<p align="center">  
+✨ *Creating with code, coffee, and pastel vibes* 🌸  
+</p>
