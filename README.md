@@ -51,5 +51,5 @@
 ---
 
 <p align="center">  
-✨ *Creating with code, coffee, and pastel vibes* 🌸  
+✨ Creating with code, coffee, and pastel vibes 🌸  
 </p>
