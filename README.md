@@ -3,7 +3,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmw2ZWV5eXJoeTEzdWljNW40MDgwZWZ4dzc3aTF1bTJqa2o4cm54ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGnkt4OpJf5JcJy/giphy.gif" width="350" />
 </p>
 
-# Hi there! 👋 I'm **Jcel** 💻  
+# Hi, I'm **Jcel** 💻  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jcelmanimtim.jcelmanimtim)
 
 ---
@@ -11,9 +11,6 @@
 ## 🌸 About Me  
 📚 Information Technology student at **STI College**  
 💻 Coding & creating *cute aesthetic projects*  
-🎵 Always vibing to indie & chill music  
-☕ Coffee addict & occasional boba lover  
-🌷 Living in pastel vibes ✨  
 
 ---
 
@@ -73,7 +70,7 @@
 ---
 
 <p align="center">  
-  ✨ *Creating with code, coffee, and pastel vibes* 🌸  
+  ✨ Creating with code, coffee, and pastel vibes 🌸  
 </p>
 
 <p align="center">
