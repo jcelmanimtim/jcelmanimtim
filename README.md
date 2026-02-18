@@ -37,12 +37,10 @@
 ---
 
 ## 🌱 Currently Learning  
-✨ Event-Driven Programming  
-✨ Enterprise Architecture  
-✨ Computer Graphics Programming  
-✨ Advanced Systems Integration & Architecture  
-✨ Data & Digital Communications  
-✨ Knowledgeable in SAP Fiori  
+✨ Management Information Systems  
+✨ Programming Languages  
+✨ Web Systems and Technologies  
+✨ Mobile Systems and Technologies   
 
 ---
 
