@@ -52,18 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcelmanimtim&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcelmanimtim&layout=compact&theme=rose_pine&hide_border=true" width="41%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jcelmanimtim&theme=rose_pine&hide_border=true" width="70%"/>
-</p>
-
----
-
 ## 📬 Let’s Connect  
 📧 **manimtim.423459@santarosa.sti.edu.ph**
 
