@@ -9,7 +9,7 @@
 
 # 🌸 About Me
 📚 **BS Information Technology Student**  
-🏫 STI College Santa Rosa  
+🏫 STI College 
 
 💡 Passionate about **UI/UX design, web development, and system architecture**  
 ✨ I enjoy creating **aesthetic, functional, and user-friendly applications**
